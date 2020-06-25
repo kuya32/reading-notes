@@ -77,3 +77,5 @@ p {
 - HSL & HSLA
     - Hsl - an alternative way to specify color
     - Hsla - specify color properties like before but adds a value which represents transparency
+
+[Back to Main](README.md)

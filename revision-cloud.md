@@ -65,3 +65,5 @@ Git mostly relies on local operations because most necessary information can be 
     - $ git commit -m “Adding some info in file”
 - Push
     - $ git push origin master
+
+[Back to Main](README.md)
